@@ -30,5 +30,5 @@ These indicators are used in financial analysis models or statistical analysis m
 -	Regression model;
 - Logit and Probit models;
 - Neural network model;
-<h2>How is it used?</h2>
+<h2>How is it used?</h2> 
 Banks, financial institutions and individuals use pre-investment analysis tools.
