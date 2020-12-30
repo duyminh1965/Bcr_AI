@@ -11,14 +11,14 @@ Applied to all economies and communities, it helps organizations and individuals
 
 Financial information of enterprises is the most important factor in analyzing, rating and ranking of corporate credit. This information shows the entire production and business situation of the enterprise, the usage situation, the capital structure, the efficiency of production and business activities, the liquidity as well as the development prospects of the business. . Qualitative factors commonly used in corporate credit rating include the following criteria: 
 
-<h4>Capital structure, capital sources</h4>
+Capital structure, capital sources
 - The growth rate of total assets;
 - Coefficient of fixed assets / total assets;
 - Debt coefficient;
 - Debt structure;
 - Overdue debts on total outstanding loans.
 
-<h4>Efficient use of capital - Profitability</h4>
+Efficient use of capital - Profitability
 - Growth rate of revenue;
 - Growth rate of profit;
 - Profit / total revenue;
