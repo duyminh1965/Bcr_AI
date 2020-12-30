@@ -1,9 +1,9 @@
-<h1># business_credit_ratings </h1>
+<h2># business_credit_ratings </h2>
 Final project for the Building AI course
 <h2>##Summary  </h2>
 
 Enterprise credit rating project to assess the creditworthiness and risk of that enterprise, helping investment partners, suppliers and competitors to make effective business decisions , reduce business cooperation risks.
-<h1>##Background </h1>
+<h2>##Background </h2>
 Evaluate the capacity of businesses transparently, want to have a look at the strength of the business.
 Applied to all economies and communities, it helps organizations and individuals know about the capabilities of a business, with the aim of enhancing risk prevention and prevention in the banking system, facilitating organizations and individuals to explore and invest in that business.
 
@@ -28,5 +28,5 @@ These indicators are used in financial analysis models or statistical analysis m
 -	Regression model;
 - Logit and Probit models;
 - Neural network model;
-<h1>##How is it used?</h1>
+<h2>##How is it used?</h2>
 Banks, financial institutions and individuals use pre-investment analysis tools.
