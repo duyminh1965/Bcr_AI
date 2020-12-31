@@ -1,5 +1,6 @@
-# Bcr_AI - Building AI course project
-Business credit rating AI
+# Bcr_AI
+Building AI course project
+Business credit rating
 ## Summary  
 
 Enterprise credit rating project to assess the creditworthiness and risk of that enterprise, helping investment partners, suppliers and competitors to make effective business decisions , reduce business cooperation risks.
