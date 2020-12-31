@@ -1,6 +1,4 @@
-# Bcr_AI
-
- Building AI course project
+# Bcr_AI - Building AI course project
 
 ## Summary  
 
