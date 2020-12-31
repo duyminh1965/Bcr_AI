@@ -1,4 +1,4 @@
-<h1>#Bcr_AI</h1>
+<h1>Bcr_AI</h1>
  Building AI course project
 <h2>##Summary  </h2>
 
