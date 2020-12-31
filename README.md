@@ -1,5 +1,4 @@
 <h1>#Bcr_AI - Building AI course project </h1>
-Final project for the Building AI course
 <h2>##Summary  </h2>
 
 Enterprise credit rating project to assess the creditworthiness and risk of that enterprise, helping investment partners, suppliers and competitors to make effective business decisions , reduce business cooperation risks.
